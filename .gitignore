@@ -1,0 +1,16 @@
+# Node.js 依赖
+node_modules/
+
+# VitePress 构建输出
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+
+# 敏感文件
+.env
+.git-credentials
+.netrc
+
+# 临时文件
+*.log
+*.bak
+.DS_Store
